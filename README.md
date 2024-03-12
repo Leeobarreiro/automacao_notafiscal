@@ -21,9 +21,6 @@ Criação de planilha excel com as informações de interesse coletadas a partir
 Nota fiscal usada na automação:<br>
 ![Screenshot_1](https://user-images.githubusercontent.com/128300382/227984213-5b7e12ff-40a7-4cfc-94c9-548331581509.png)
 
-Planilha excel criada:<br>
-![Screenshot_2](https://user-images.githubusercontent.com/128300382/227984284-d750e504-01c0-462c-8f5d-b8d36edb9cef.png)
-
 
 ## Pré requisitos
 
